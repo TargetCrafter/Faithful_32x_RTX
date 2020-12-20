@@ -1,0 +1,14 @@
+{
+  "namespace": "filter_menu",
+
+  "portal_animation": {
+    "anim_type": "flip_book",
+    "base_size": [ 304, 19 ],
+    "initial_uv": [ 0, 0 ],
+    "frame_count": 16,
+    "frame_step": 19,
+    "fps": 10,
+    "reversible": true,
+    "easing": "linear"
+  }
+}
