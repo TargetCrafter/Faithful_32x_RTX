@@ -1,6 +1,6 @@
 # TargetCrafter's Faithful 32x RTX Resource pack
 
-This is a resource-pack based on @ZouChenyunfei's MultiPixel resource-pack available [here](https://mcpedl.com/multipixel-texture-pack/). The goal is to make all the textures work with ray-tracing in the Windows 10 version of Minecraft. This means that a normal and a MER (Metallic, Emission, Roughness) map has to be added to each of the available textures.
+This is a resource-pack based on @ZouChenyunfei's MultiPixel resource-pack available [here](https://mcpedl.com/multipixel-texture-pack/). The goal is to make all the textures work with ray-tracing in the Windows 10 version of Minecraft. This means that a normal and a MER (Metallic, Emission, Roughness) maps have to be added to each of the available textures.
 
 # Map creation guide
 In the future I will add a guide to this page to show how to make the required maps for this resource-pack. This is for accessibility as well as consistency.
