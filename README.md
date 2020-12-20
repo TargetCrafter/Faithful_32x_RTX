@@ -7,6 +7,7 @@ In the future I will add a guide to this page to show how to make the required m
 For now you can follow these guides by Mojang and Nvidia:
 
 [Minecraft Texture Set Documentation (Mojang)](https://help.minecraft.net/hc/en-us/articles/360051308931-Minecraft-Texture-Set-Documentation)
+
 [Minecraft with RTX PBR Texturing Guide (Nvidia)](https://www.nvidia.com/en-us/geforce/guides/minecraft-rtx-texturing-guide/)
 
 For each texture, a .xcf file will be created with the editable versions of the maps. This can be opened and edited using [Gimp](https://www.gimp.org/downloads/). For the normal maps I used the [normalmap plugin](https://code.google.com/archive/p/gimp-normalmap/).
