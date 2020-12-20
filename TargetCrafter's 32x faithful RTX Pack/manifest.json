@@ -1,0 +1,21 @@
+{
+   "format_version": 2,
+   "header": {
+     "description": "TargetCrafter's Faithful 32x raytracing-capable pack",
+     "name": "TC Faithful 32x RTX",
+     "uuid": "243661ec-039b-48f8-8ce4-d0b2424bdaad",
+     "version": [1, 0, 0],
+     "min_engine_version": [1, 16, 0]
+   },
+   "modules": [
+     {
+       "description": "TC Faithful 32x RTX",
+       "type": "resources",
+       "uuid": "b8537a42-3657-4079-8454-467681746b2e",
+       "version": [1, 0, 0]
+     }
+   ],
+   "capabilities" : [
+           "raytraced"
+   ]
+ }
